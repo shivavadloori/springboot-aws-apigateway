@@ -1,0 +1,43 @@
+{"modelYears":[
+  {
+    "modelId": "Frank",
+    "modelYear": "2023",
+    "searies_id": "frank.murphy@test.com",
+    "bitmap_id": "User",
+    "mm_Status": "VA",
+    "owners_manual_name": "ownersManualName"
+  },
+  {
+    "modelId": "Vic",
+    "modelYear": "2019",
+    "searies_id": "vic.reynolds@test.com",
+    "bitmap_id": "Admin",
+    "mm_Status": "VA",
+    "owners_manual_name": "ownersManualName"
+  },
+  {
+    "modelId": "Gina",
+    "modelYear": "2013",
+    "searies_id": "gina.jabowski@test.com",
+    "bitmap_id": "Admin",
+    "mm_Status": "AV",
+    "owners_manual_name": "ownersManualName"
+  },
+  {
+    "modelId": "Jessi",
+    "modelYear": "2023",
+    "searies_id": "jessi.glaser@test.com",
+    "bitmap_id": "User",
+    "mm_Status": "AV",
+    "owners_manual_name": "ownersManualName"
+  },
+  {
+    "modelId": "Jay",
+    "modelYear": "Bilzerian",
+    "searies_id": "jay.bilzerian@test.com",
+    "bitmap_id": "User",
+    "mm_Status": "AV",
+    "owners_manual_name": "ownersManualName"
+  }
+]
+}

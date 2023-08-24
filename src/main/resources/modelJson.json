@@ -1,0 +1,39 @@
+{
+	"models":[
+  {
+    "modelId": "Frank",
+    "modleName": "Murphy",
+    "makeId": "frank.murphy@test.com",
+    "model_w_id": "User",
+    "modelStatus": "VA"
+  },
+  {
+    "modelId": "Vic",
+    "modleName": "Reynolds",
+    "makeId": "vic.reynolds@test.com",
+    "model_w_id": "Admin",
+    "modelStatus": "VA"
+  },
+  {
+    "modelId": "Gina",
+    "modleName": "Jabowski",
+    "makeId": "gina.jabowski@test.com",
+    "model_w_id": "Admin",
+    "modelStatus": "AV"
+  },
+  {
+    "modelId": "Jessi",
+    "modleName": "Glaser",
+    "makeId": "jessi.glaser@test.com",
+    "model_w_id": "User",
+    "modelStatus": "AV"
+  },
+  {
+    "modelId": "Jay",
+    "modleName": "Bilzerian",
+    "makeId": "jay.bilzerian@test.com",
+    "model_w_id": "User",
+    "modelStatus": "AV"
+  }
+]
+}
